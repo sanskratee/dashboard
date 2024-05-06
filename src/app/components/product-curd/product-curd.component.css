@@ -1,0 +1,17 @@
+.example-card {
+    max-width: 200px;
+    padding: 0.25em;
+    /* border: 0.18em solid rgb(140, 139, 139); */
+    /* border-radius: 0.25em; */
+  }
+  
+  .example-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+
+  .bo{
+    border: 0.13em solid rgb(140, 139, 139); 
+     border-radius: 0.25em;
+  } 
+  
